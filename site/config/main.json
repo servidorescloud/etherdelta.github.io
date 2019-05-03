@@ -955,6 +955,7 @@
     {"addr":"0x1a95b271b0535d15fa49932daba31ba612b52946","name":"MNE","decimals":8},
     {"addr":"0x1063ce524265d5a3a624f4914acd573dd89ce988","name":"AIX","decimals":18},
     {"addr":"0xc72fe8e3dd5bef0f9f31f259399f301272ef2a2d","name":"INSTAR","decimals":18},
+    {"addr":"0xcc2ad789f459bc73e5fb33364964b658a62c1ee7","name":"NIOSHARES","decimals":8},
     {"addr":"0x7dc4f41294697a7903c4027f6ac528c5d14cd7eb","name":"RMC","decimals":8}
   ],
   "defaultPair": {
